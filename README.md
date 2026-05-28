@@ -22,7 +22,7 @@ The experiments are conducted on 50 test images from the **Berkeley Segmentation
 * `digital_image.ipynb`: The main Google Colab notebook containing the entire pipeline.
 * `results_summary.csv`: Quantitative benchmarking results (Precision, Recall, F-measure) for all methods across all noise levels.
 * `ablation_summary.csv`: Results of the ablation study isolating the effects of adaptive smoothing and adaptive thresholding.
-* `Images/`: Generated plots including F-measure comparisons, Precision-Recall curves, visual edge map comparisons, and hyperparameter sensitivity graphs.
+* `results/`: Generated plots including F-measure comparisons, Precision-Recall curves, visual edge map comparisons, and hyperparameter sensitivity graphs.
 
 ## 🚀 How to Run (Reproducibility)
 
